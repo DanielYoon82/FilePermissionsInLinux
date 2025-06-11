@@ -45,20 +45,17 @@ Command ls -l is inputted to list the contents of the current directory. <br />
 It shows that group permissions of project_m.txt is read only. <br />
 chmod g-r project_m.txt so that the read permission is removed. <br />
 <br />
-<br />
 
 - <b>Change file permissions on a hidden file</b> <br />
 .project_x.txt is a hidden file that should not be written by anyone.  <br/>
 ls -la command shows the user and group have incorrect write permissions. <br />
 chmod u-w, g-w, g+r .project_x.txt command now remove write permissions for both owners but allows group to have read permission.
 <br />
-<br />
 
 - <b>Change directory permissions</b> <br />
 Researcher2 should only be allowed to have access to the /home/researcher2/projects/drafts directory. <br/>
 ls -l command is entered while in the projects directory and shows that group has access to execute permission. <br />
 chmod g-x drafts command is entered to remove the owner group from permission.
-<br />
 <br />
 
 - <b>Summary</b> <br />
