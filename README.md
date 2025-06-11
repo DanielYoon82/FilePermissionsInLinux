@@ -22,7 +22,7 @@ Contents and permissions for this directory will be displayed using command ls -
 : <br/>
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/FilePermissionsInLinux/blob/main/images/LinuxDirectory.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/FilePermissionsInLinux/blob/main/images/LinuxDirectory.jpg" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -30,7 +30,7 @@ Contents and permissions for this directory will be displayed using command ls -
 The permissions string displays as follows:
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/FilePermissionsInLinux/blob/main/images/PermissionsString.jpg" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/FilePermissionsInLinux/blob/main/images/PermissionsString.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />
