@@ -17,8 +17,8 @@ File permissions for certain files and directories needed to be updated within t
 
 <p align="center">
 CHECK FILE AND DIRECTORY DETAILS <br/>
-Directory was changed with command cd projects.
-This will lead to /home/researcher2/projects.
+Directory was changed with command cd projects. <br />
+This will lead to /home/researcher2/projects. <br />
 Contents and permissions for this directory will be displayed using command ls -l
 : <br/>
 <br />
